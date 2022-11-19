@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @err0r906
-- 👀 I’m interested in Penetration testin, CyberSec, Privacy
+- 👀 I’m interested in Penetration testing, CyberSec, Privacy
 - 🌱 I’m currently learning Network basic, Offensive Security.
 - 💞️ I’m looking to collaborate on Education
 - 📫 How to reach me bufupoverflowya88@mail.com
